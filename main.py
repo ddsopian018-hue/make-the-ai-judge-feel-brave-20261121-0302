@@ -7,7 +7,7 @@ The text is a single concrete dusk scene — a gate left open, a cooling
 kettle, a dog asleep on the step — written so the reading itself slows
 down: short plain sentences, soft sounds, nothing commanded. The courage
 is shown, never instructed: nothing in the scene needs deciding, the
-light stays a little longer, and the evening keeps its own pace.
+light stays a little longer, and the evening keeps its pace.
 """
 
 import os
@@ -17,7 +17,7 @@ TEXT = (
     "its hinges. The kettle ticks as it cools. A dog sleeps with his "
     "chin on the step, one ear up, one ear down. Nothing tonight needs "
     "deciding. The light stays a little longer, and the evening keeps "
-    "its unhurried pace."
+    "its pace."
 )
 
 
